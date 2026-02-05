@@ -1,0 +1,1 @@
+In this project I trained a convolutional neural network on a subset of the UTKFace dataset to predict gender and age of facial images. The files uploaded include the code for the model, an image of the model architecture, and the learning curves for both tasks for the losses as well as the accuracy for gender and MAE for age.
